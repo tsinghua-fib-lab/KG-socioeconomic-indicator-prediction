@@ -4,13 +4,14 @@ This is the codebase for "Hierarchical Knowledge Graph Learning Enabled Socioeco
 NYC dataset is included.
 
 # Usage
+Please first download "mob-adj.npy" from [here](https://cloud.tsinghua.edu.cn/f/351fa77cc997486183c1/?dl=1) and put it into "./data/data_ny/" folder.
 
 Train:
 
 ```
 bash run.sh
 ```
-Evaluation:
+Evaluate:
 
 ```
 python evaluate.py
