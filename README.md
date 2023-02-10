@@ -16,3 +16,12 @@ Evaluate:
 ```
 python evaluate.py
 ```
+
+# Reference
+```
+@inproceddings{zhou2023hierarchical,
+title 	  = {Hierarchical Knowledge Graph Learning Enabled Socioeconomic Indicator Prediction in Location-Based Social Network},
+author	  = {Zhou, Zhilun and Liu, Yu and Ding, Jingtao and Jin, Depeng and Li, Yong},
+booktitle = {The Web Conference},
+year      = {2023}}
+```
